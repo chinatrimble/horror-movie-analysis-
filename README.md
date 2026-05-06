@@ -24,3 +24,11 @@ What makes a horror movie successful?
 ![Top Horror Hybrids](top_horror_genres.png)
 
 ![Popularity vs Rating](popularity_vs_rating.png)
+
+# 📌 Tableau Dashboard 
+[View Interactive Dashboard](https://public.tableau.com/views/WhatMakesaHorrorMovieSuccessful/HorrorMoviesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+# 💡 Conclusion
+Horror movies tend to perform better when they blend with other genres like mystery or science fiction. While popular films generate attention, they are not the most critically acclaimed. 
+
+# 👩🏻‍💻 Author: China Trimble 
