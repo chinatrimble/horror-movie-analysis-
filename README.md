@@ -20,3 +20,7 @@ What makes a horror movie successful?
 - Classic horror films still perform strongly in both ratings and engagement.
 
 📈 Visualizations 
+
+![Top Horror Hybrids](top_horror_genres.png)
+
+![Popularity vs Rating](popularity_vs_rating.png)
